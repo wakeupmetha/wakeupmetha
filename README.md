@@ -1,7 +1,3 @@
-### 🧰 True vibe coder
-
----
-
 #### 🌐 Where i can "work"
 
 <p align="center">
