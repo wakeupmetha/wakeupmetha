@@ -74,7 +74,12 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wakeupmetha\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wakeupmetha&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakeupmetha&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+
 
 ---
 
