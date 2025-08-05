@@ -37,7 +37,35 @@
 
 ### My projects
 
-soon...
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/wakeupmetha/nuke">
+        <img src="https://durka.lol/YlROshJ" width="100" alt="nuke"/><br />
+        <strong>nuke</strong>
+      </a>
+      <br />
+      A Python script for quickly deleting large amounts of your messages from public Telegram chats.
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/wakeupmetha/ip-lookup">
+        <img src="https://durka.lol/BQJMPkB" width="100" alt="ip-lookup"/><br />
+        <strong>ip-lookup</strong>
+      </a>
+      <br />
+      A React-based web app for visualizing large CSV datasets from <a href="https://www.showmyip.com/bulk-ip-lookup/" target="_blank">showmyip.com</a> on an interactive map with detailed IP analysis.
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/wakeupmetha/myfetch">
+        <img src="https://durka.lol/X3WXTlH" width="100" alt="myfetch"/><br />
+        <strong>myfetch</strong>
+      </a>
+      <br />
+      My custom configuration for <code>anifetch</code>, an anime-styled system info tool inspired by <code>neofetch</code>.
+    </td>
+  </tr>
+</table>
+
 
 
 
